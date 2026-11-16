@@ -47,7 +47,7 @@ You paste a short text, and the program shows the 5 best matches with a score fo
 
 ## Usage example
 
-Evidences/recommender test 2.png
+![alt text](image-1.png)
 
 ## Notes
 
